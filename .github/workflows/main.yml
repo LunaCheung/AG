@@ -6,7 +6,7 @@ on:
       log:
         description: "Commit Log"
         required: true
-        default: "a commit a day keeps your girlfriend away"
+        default: "peace and love"
   schedule:
     - cron: "0 0 * * 0-5"
 
